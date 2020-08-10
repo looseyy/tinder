@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977126202148",
+    "firebase_url": "https://studytinder-63a73.firebaseio.com",
+    "project_id": "studytinder-63a73",
+    "storage_bucket": "studytinder-63a73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977126202148:android:19cf8bb1f01a2e71ce31b1",
+        "android_client_info": {
+          "package_name": "com.example.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977126202148-iccr532fh0glh5q2smp9s3b4cfdh5njc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tinder",
+            "certificate_hash": "e1d6f6cad9705b1738634eb43035f9fd9ba63e8c"
+          }
+        },
+        {
+          "client_id": "977126202148-s9q558rpbedkpuuj5bc15kfirc9p057t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MHnJbbR6k_ZhJ_VQ6-DKeF_Yrb8Nx20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977126202148-s9q558rpbedkpuuj5bc15kfirc9p057t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
